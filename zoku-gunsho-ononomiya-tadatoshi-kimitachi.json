@@ -360,6 +360,10 @@
    "dai": ""
   }
  ],
+ "translation": {
+  "count": 6,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-ononomiya-tadatoshi-kimitachi",
   "work": "故小野宮右衛門督斉敏君達歌合",
@@ -372,7 +376,7 @@
   "blocks": 6,
   "chars": 2038,
   "poems": 18,
-  "yaku": 0,
+  "yaku": 6,
   "editions": 1,
   "updated": "2026-11-02",
   "updated_at": "2026-11-02T03:00:16+09:00"
